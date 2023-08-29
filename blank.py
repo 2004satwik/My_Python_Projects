@@ -1,0 +1,5 @@
+d=open('Sample.txt')
+i=d.read()
+print(len(i))
+print(i[:20])
+input('tq')
